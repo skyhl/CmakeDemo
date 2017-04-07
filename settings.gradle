@@ -1,0 +1,1 @@
+include ':app', ':jni_ffmpeg_lib'
